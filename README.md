@@ -37,10 +37,12 @@ The dataset contains:
 - Total of Titles by Country
 
   ## Preview
-  [Netflix Sales Performance][https://github.com/Marvel222-ux/Netflix_Data/blob/main/NETFLIX%20IMG%20DB.png]
+  [Netflix Sales Performance](https://github.com/Marvel222-ux/Netflix_Data/blob/main/NETFLIX%20IMG%20DB.png)
 
-  > Click on the link above for the Netflix show performance dashboard image sample.
+  > Click on the link above for the Netflix show performance dashboard  sample.
+
+All about show
 
 ## Author
 Name: KILANKO RACHEAL ABIMBOLA, Aspiring Data Analyst
-All about show
+
