@@ -24,9 +24,9 @@ The dataset contains:
 - Description
 
 ## Data Cleaning Process
--Handled missing values
--Standardized data format
--Oranized data for analysis
+- Handled missing values
+- Standardized data format
+- Oranized data for analysis
 
 ## Dashboard Features
 - Count of Title by Year
